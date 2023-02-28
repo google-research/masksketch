@@ -1,4 +1,4 @@
-# MaskSketch: Unpaired Structure-guided Masked Image Generation
+# MaskSketch: Unpaired Structure-guided Masked Image Generation *CVPR 2023*
 Jax implementation of MaskSketch.
 
 
@@ -34,10 +34,9 @@ You can run these models for sketch-conditional image **generation** in the [dem
 ```
 @inproceedings{bashkirova@masksketch,
     author    = {Bashkirova, Dina and Lezama, Jose and Sohn, Kihyuk and Saenko, Kate and Essa, Irfan },
-    title     = {},
-    booktitle = {},
-    month     = {November},
-    year      = {2022}
+    title     = {MaskSketch: Unpaired Structure-guided Masked Image Generation},
+    howpublished = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+    year      = {2023}
 }
 ```
 
