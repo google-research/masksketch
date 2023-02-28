@@ -1,4 +1,4 @@
-# MaskSketch: Unpaired Structure-guided Masked Image Generation *CVPR 2023*
+# MaskSketch: Unpaired Structure-guided Masked Image Generation [CVPR 2023]
 Jax implementation of MaskSketch.
 
 
