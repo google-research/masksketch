@@ -2,7 +2,7 @@
 Jax implementation of MaskSketch.
 
 
-[[Paper](https://masksketch.github.io/paper.pdf)] [[Project Page](https://masksketch.github.io/)] [[Demo Colab](https://github.com/dbash/jax_masksketch/blob/main/MaskSketch_demo.ipynb)]
+[[Paper](https://masksketch.github.io/paper.pdf)] [[Project Page](https://masksketch.github.io/)] [[Demo Colab](https://github.com/google-research/masksketch/blob/main/MaskSketch_demo.ipynb)]
 
 ![teaser](imgs/wpage_fig_2.png)
 
